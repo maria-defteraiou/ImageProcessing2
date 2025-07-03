@@ -1,0 +1,14 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+tensorflow
+keras
+opencv-python
+jupyterlab
+seaborn
+tqdm
+keras
+pydot
+graphviz
+kagglehub
